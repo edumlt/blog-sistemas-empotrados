@@ -13,7 +13,7 @@ Para esta práctica se ha empleado el uso de Arduino Uno con los siguientes comp
 
 ## Esquemático del circuito
 
-![Esquemático_del_circuito]()
+![Esquemático_del_circuito](maquina_expendedora.png)
 
 ## Explicación del código
 
@@ -50,7 +50,7 @@ Las funciones implementadas se encuentran en la parte inferior del código, faci
 
 ## Video del funcionamiento
 
-![Video del funcionamiento]()
+[Video del funcionamiento](https://urjc-my.sharepoint.com/:v:/g/personal/e_martint_2022_alumnos_urjc_es/EYSeyuBfuGNEsY5zgR_j9eoB5SzwUyYubm23snaW7nYXPQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qx0gGo)
 
 ## Dificultades
 
